@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #IMPORTANT: do not use any GNU tools until further notice (see below)
 
